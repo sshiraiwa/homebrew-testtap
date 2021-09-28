@@ -1,5 +1,5 @@
 class Gothanks < Formula
-  desc "GoThanks automatically stars Go's official "
+  desc "test"
   homepage ""
   url "https://github.com/psampaz/gothanks/archive/v0.3.0.tar.gz"
   sha256 "ce5440334b3eac2e058724faa4c6e4478ca1d81ea087e55ccca33f1996752aad"
